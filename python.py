@@ -1,3 +1,6 @@
+
+print("Hello")
+
 ### read data
 
 ##f=open("abc.txt","r")
